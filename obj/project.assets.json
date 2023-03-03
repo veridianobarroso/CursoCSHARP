@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/veridiano/Desktop/03-Programação em C#/CursoCSHARP/Git/CursoCSHARP/Aula1.csproj",
-      "projectName": "Aula1",
-      "projectPath": "/Users/veridiano/Desktop/03-Programação em C#/CursoCSHARP/Git/CursoCSHARP/Aula1.csproj",
+      "projectUniqueName": "/Users/veridiano/Desktop/03-Programação em C#/CursoCSHARP/Git/CursoCSHARP/Csharp.csproj",
+      "projectName": "Csharp",
+      "projectPath": "/Users/veridiano/Desktop/03-Programação em C#/CursoCSHARP/Git/CursoCSHARP/Csharp.csproj",
       "packagesPath": "/Users/veridiano/.nuget/packages/",
-      "outputPath": "/Users/veridiano/Desktop/03-Programação em C#/CursoCSHARP/Git/CursoCSHARP/obj/",
+      "outputPath": "/Users/veridiano/Desktop/03-Programação em C#/CursoCSHARP/Git/CursoCSHARP/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/veridiano/.nuget/NuGet/NuGet.Config"

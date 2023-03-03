@@ -1,0 +1,15 @@
+/Users/veridiano/Desktop/03-Programação em C#/CursoCSHARP/Git/CursoCSHARP/bin/Debug/net7.0/Csharp
+/Users/veridiano/Desktop/03-Programação em C#/CursoCSHARP/Git/CursoCSHARP/bin/Debug/net7.0/Csharp.deps.json
+/Users/veridiano/Desktop/03-Programação em C#/CursoCSHARP/Git/CursoCSHARP/bin/Debug/net7.0/Csharp.runtimeconfig.json
+/Users/veridiano/Desktop/03-Programação em C#/CursoCSHARP/Git/CursoCSHARP/bin/Debug/net7.0/Csharp.dll
+/Users/veridiano/Desktop/03-Programação em C#/CursoCSHARP/Git/CursoCSHARP/bin/Debug/net7.0/Csharp.pdb
+/Users/veridiano/Desktop/03-Programação em C#/CursoCSHARP/Git/CursoCSHARP/obj/Debug/net7.0/Csharp.csproj.AssemblyReference.cache
+/Users/veridiano/Desktop/03-Programação em C#/CursoCSHARP/Git/CursoCSHARP/obj/Debug/net7.0/Csharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/veridiano/Desktop/03-Programação em C#/CursoCSHARP/Git/CursoCSHARP/obj/Debug/net7.0/Csharp.AssemblyInfoInputs.cache
+/Users/veridiano/Desktop/03-Programação em C#/CursoCSHARP/Git/CursoCSHARP/obj/Debug/net7.0/Csharp.AssemblyInfo.cs
+/Users/veridiano/Desktop/03-Programação em C#/CursoCSHARP/Git/CursoCSHARP/obj/Debug/net7.0/Csharp.csproj.CoreCompileInputs.cache
+/Users/veridiano/Desktop/03-Programação em C#/CursoCSHARP/Git/CursoCSHARP/obj/Debug/net7.0/Csharp.dll
+/Users/veridiano/Desktop/03-Programação em C#/CursoCSHARP/Git/CursoCSHARP/obj/Debug/net7.0/refint/Csharp.dll
+/Users/veridiano/Desktop/03-Programação em C#/CursoCSHARP/Git/CursoCSHARP/obj/Debug/net7.0/Csharp.pdb
+/Users/veridiano/Desktop/03-Programação em C#/CursoCSHARP/Git/CursoCSHARP/obj/Debug/net7.0/Csharp.genruntimeconfig.cache
+/Users/veridiano/Desktop/03-Programação em C#/CursoCSHARP/Git/CursoCSHARP/obj/Debug/net7.0/ref/Csharp.dll
